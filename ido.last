@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/cgal_read_equilibrium/" . "Interpolation1D/")
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/" . "cgal_read_equilibrium/")
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/" . "equilibrium_project.git/")
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/" . "cgal/")
+ ("/Users/panos/Documents/programming/mirrors/" . "aug_programming/")
+ ("/Users/panos/Documents/programming/" . "dlib_tests/")
+ ("/Users/panos/Documents/" . "programming/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/panos/Documents/programming/dlib_tests/"
+ "/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/"
+ "/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/cgal_read_equilibrium/Interpolation1D/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/panos/Documents/programming/dlib_tests/" (22523 44688 0 0) "silly.cpp~" "silly.cpp" "silly" "Makefile" "GTAGS" "GRTAGS" "GPATH" "dlib_build/" "CMakeLists.txt~" "CMakeLists.txt" "CMakeFiles/" "CMakeCache.txt" "cmake_install.cmake" "#silly.cpp#" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/" (22523 44688 0 0) "cgal_read_equilibrium/" ".git/" ".DS_Store" "#.dir-locals.el#" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/cgal_read_equilibrium/" (22523 44688 0 0) "SeparatrixCorrector.h" "SeparatrixCorrector.cpp" "MyParametrizedCurve_test.cpp" "MyParametrizedCurve.h" "MyParametrizedCurve.cpp" "MyInterpolator.h" "MyInterpolator.cpp" "mexfiles/" "Matlabequilibrium.h" "Matlabequilibrium.cpp" "main.cpp" "Interpolation1D/" "GTAGS" "GRTAGS" "GPATH" "equilibrium.h" "equilibrium.cpp" "Data_collection/" "CurveIntegrator.h" "CurveIntegrator.cpp" "CMakeListsShared.txt.back" "CMakeLists.txt.back" "CMakeLists.txt" "BoozerEquilibrium.h" "BoozerEquilibrium.cpp" "BoozerAngle.h" "BoozerAngle.cpp" "AUGequilibrium.h" "AUGequilibrium.cpp" ".settings/" ".project" ".gitignore" ".cproject" "#BoozerEquilibrium.h#" "../" "./")
+
+ ("/Users/panos/.emacs.d/" (22523 43338 0 0) "semanticdb/" "README.md" "projectile-bookmarks.eld" "init.el" "ido.last" "elpa/" "ede-projects.el" "custom/" "auto-save-list/" ".git/" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/equilibrium_project.git/cgal_read_equilibrium/Interpolation1D/" (22522 64407 0 0) "Interpolant1D_test.cpp" "Interpolant1D.h~" "Interpolant1D.h" "Interpolant1D.cpp" "example.cc~" "example.cc" "CMakeLists.txt" "Build/" "#Interpolant1D_test.cpp#" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/cgal/" (22244 52515 0 0) "mycmake" "equilibrium_project.git/" "equilibrium/" "dummy.cpp" "CMakeFiles/" ".DS_Store" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/aug_programming/" (22107 26804 0 0) "main7.cpp" "main6.c" "main5.c" "main4.c" "main3.c" "main2.c" "main.exe" "main.cpp~" "main.cpp" "fort.3" "dummy.cpp" "compile_script_linux.csh" "compile_script_C.csh" "cgal/" "AUGequilibria3.h" "AUGequilibria3.c" "AUGequilibria2.h" "AUGequilibria2.c" "AUGequilibria2 copy.c" "AUGequilibria.h" "AUGequilibria.c" "aug_EQH.c.exe" "aug_EQH.c" "a.out" ".main.cpp.swp" ".DS_Store" ".compile_script_linux.csh.swp" "../" "./")
+
+ ("/Users/panos/Documents/programming/mirrors/" (22517 12802 0 0) "aug_programming/" ".DS_Store" "../" "./")
+
+ ("/Users/panos/Documents/programming/" (22518 43418 0 0) "uml_tutorial/" "symplectic/" "sqlite/" "postscript/" "poinc_map/" "Numerical Integration/" "nr/" "mpidummy" "mpidum/" "mpi_test/" "modulated_electrostatic_wave/" "mirrors/" "matlab_repos/" "kyriakos/" "karney_map_mpi/" "karney_map backup/" "karney_map/" "hw/" "Hello/" "guide_to_Sci_programming/" "gsl_test/" "googletest-master/" "electr_stat_waves/" "dummy/" "dum/" "documentation/" "dlib_tests/" "clusterCodes/" "boost_trial/" "axisymmetric_equil/" "ai/" ".DS_Store" "../" "./")
+
+ ("/Users/panos/Documents/" (22476 19832 0 0) "workprogramme2011/" "work_results/" "various/" "qt_projects/" "programming/" "plebnlopt_wiki/" "personal/" "papers/" "my papers/" "mscthesis/" "msc thesis/" "MATLAB_R2014B_MAC_LINUX_crack/" "MATLAB/" "mathematicanbs/" "git_origins/" "fonts/" "Fluke_0.2.5b/" "dummy.git/" "courses and related material/" "caving-canyoning/" "books/" "arlj.ods" "action_angle_short_presentation.pdf" "action_angle_short_presentation.odp" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/panos/" (22523 38484 0 0) "sourcetree.license" "Sites/" "restore_ports.tcl" "requested.txt" "repos/" "Qt/" "q.log" "Pictures/" "myports2.txt" "myports.txt" "myextraports.txt" "Music/" "Movies alias" "Movies/" "Library/" "leaved.txt" "installed2.txt" "HD/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".Xcode/" ".Xauthority" ".wine/" ".vnc/" ".viminfo" ".Trash/" ".tarantella/" ".subversion/" ".ssh/" ".sqlite_history" ".serverauth.75653" ".rnd" ".OVDC/" ".oracle_jre_usage/" ".octave_packages" ".octave_hist" ".matlab/" ".macports/" ".MacOSX/" ".local/" ".hgignore_global" ".gtags/" ".gnuplot_history" ".gnome2/" ".gitignore_global" ".gitconfig" ".gdb_history" ".fontconfig/" ".felix/" ".emacs~" ".emacs.d.backup/" ".emacs.d/" ".DS_Store" ".designer/" ".dbus-keyrings/" ".cups/" ".config/" ".cmake/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile~" ".bash_profile.macports-saved_2016-02-14_at_23:55:28" ".bash_profile.macports-saved_2016-02-11_at_23:20:02" ".bash_profile.macports-saved_2010-09-07_at_15:40:16" ".bash_profile" ".bash_history" ".argouml/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
